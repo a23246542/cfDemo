@@ -629,7 +629,7 @@ img {
 
 @media screen and (max-width: 768px) {
   .web-page4 .conList ul li {
-    width: 24rem;
+    width: 20rem;
     padding: 0 5px;
   }
 }
