@@ -125,7 +125,9 @@ img {
   background-color: #c835e8;
   background-repeat: no-repeat,no-repeat,no-repeat;
   background-size: 7rem,9rem,9rem;
-  background-position: left 9% top 5%, right 4% top 19%, left 0% bottom 10%;
+  background-position: left 9% top 5%,
+ right 4% top 19%,
+ left 0% bottom 10%;
 }
 
 .web-page2 .container {
@@ -669,7 +671,7 @@ img {
 
 @media screen and (max-width: 768px) {
   .web-page4 .conList ul li:nth-child(1) {
-    left: 1%;
+    /* left: 1%; */
   }
 }
 
@@ -686,7 +688,7 @@ img {
 
 @media screen and (max-width: 768px) {
   .web-page4 .conList ul li:nth-child(2) {
-    right: 1%;
+    /* right: 1%; */
   }
 }
 
