@@ -1,9 +1,7 @@
 @import url(d:\Users\sam.yang\Documents\cfDemo\css\template.css);
 html, body {
-  width: 100%;
-  height: 100%;
-  -webkit-overflow-scrolling: touch;
   font-family: "Microsoft JhengHei","Heiti TC","sans-self";
+  overflow: hidden;
 }
 
 html a, body a {
